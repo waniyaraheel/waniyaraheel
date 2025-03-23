@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waniya Raheel</h1>
 <h3 align="center">A passionate frontend developer from Pakistan Karachi</h3>
 
+<img scr="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waniyaraheel&label=Profile%20views&color=0e75b6&style=flat" alt="waniyaraheel" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
@@ -22,4 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waniyaraheel&show_icons=true&locale=en" alt="waniyaraheel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waniyaraheel&" alt="waniyaraheel" /></p>
-
