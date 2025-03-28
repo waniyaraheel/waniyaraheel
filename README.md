@@ -1,9 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Waniya Raheel</h1>
-<h3 align="center">A passionate frontend developer from Karachi Pakistan </h3>
+<h3 align="center">A passionate frontend developer from Pakistan Karachi</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waniyaraheel&label=Profile%20views&color=0e75b6&style=flat" alt="waniyaraheel" /> </p>
 
 - 🌱 I’m currently learning **Web Development**
+
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **waniyaraheel4@gmail.com**
 
